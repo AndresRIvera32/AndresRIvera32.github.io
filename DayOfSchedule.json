@@ -1,0 +1,21 @@
+{
+  "perner": 12345678,
+  "laborSystemId": "SPRCS",
+  "timeCode": "UAT",
+  "hourType": "DOL",
+  "scheduleStart": "2019-10-10T10:10:10Z",
+  "scheduleEnd": "2019-10-10T10:10:10Z",
+  "gemsPositionCode": "0005146961BTBM1",
+  "shiftLocationDescription": "Tech Conventions MK",
+  "premium": "8Z",
+  "costCenter": 5100542,
+  "costObject": "ID1016728",
+  "taskDescription": "PO RS Bellprsn",
+  "oldShiftStart": "2019-10-10T10:10:10Z",
+  "oldShiftEnd": "2019-10-10T10:10:10Z",
+  "shiftId": 308287328,
+  "voluntaryFlag": true,
+  "mealBreak": 0,
+  "breakData": "C11930060030",
+  "workCode": "BUSDRIVER"
+}
