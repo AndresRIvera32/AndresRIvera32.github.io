@@ -1,4 +1,5 @@
 {
+  "result": [{
   "perner": 12345678,
   "laborSystemId": "SPRCS",
   "timeCode": "UAT",
@@ -14,4 +15,5 @@
   "jobKey": 60004675,
   "flags": "NN",
   "deletedFlag": true
+   }]
 }
