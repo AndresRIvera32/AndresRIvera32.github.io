@@ -1,4 +1,5 @@
 {
+  "result": [{
   "perner": 12345678,
   "laborSystemId": "SPRCS",
   "timeCode": "UAT",
@@ -18,4 +19,5 @@
   "mealBreak": 0,
   "breakData": "C11930060030",
   "workCode": "BUSDRIVER"
+  }]
 }
