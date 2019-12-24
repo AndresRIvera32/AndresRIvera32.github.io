@@ -1,7 +1,7 @@
 {
-	"result": [{
+	"result": {
 		"sapJobKey": 12345678,
 		"jobKeyStartDate": "SPRCS",
 		"jobKeyEndDate": "UAT"
-	}]
+	}
 }
